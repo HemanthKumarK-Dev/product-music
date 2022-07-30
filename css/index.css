@@ -1,0 +1,168 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins' , sans-serif;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav img{
+    margin:20px 40px;
+    height: 40px;
+}
+
+.nav-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-item{
+    margin:0 24px;
+    font-size: 16px;
+    font-weight: 300;
+    color:#8f8686
+}
+.active-item{
+    color: #fe5e35;
+}
+
+.intro-section{
+    display: flex;
+     margin: 40px;
+}
+
+.left-section h3{
+    font-size: 35px;
+    font-weight: 200;
+   
+}
+.left-section>h3>img{
+    height: 35px;
+    margin-top: 30px;
+}
+
+.left-section h1{
+    font-family: 'Fredoka One',sans-serif;
+    font-size: 60px;
+}
+
+.sub-headline{
+    margin-left: 60px;
+    margin-top: 20px;
+    line-height: 7px;
+    font-size: 16px;
+    font-weight: 100;
+}
+.sub-headline img{
+    background-color: #fe5e35;
+    border-radius: 12px;
+    height: 22px;
+    position: relative;
+    top: 6px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+
+.text{
+    margin-top: 70px;
+    font-size: 14px;
+    margin-right: 120px;
+    color: #8f8686;
+
+}
+
+
+ .action-btn{
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 18px;
+
+    background-color: #fe5e35;
+    color: #fefefe;
+    border-style: none;
+    margin-right: 30px;
+}
+.action-btns .action-btn{
+ margin-top: 80px;;
+}
+
+.headphone-div>img:first-child{
+    position:absolute;
+    top:350px;
+    left:700px;
+    height: 120px;
+    
+}
+.discount-content{
+    position: absolute;
+    top:350px;
+    left:700px;
+    color: #fefefe;
+    
+}
+.discount-content>h4{
+    margin-top: 35px;
+    margin-left: 20px;
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Fredoka One',sans-serif;
+    font-weight: 20;
+   
+}
+.discount-content>h1{
+    margin-left: 20px;
+    font-size: 35px;
+    font-weight: 400;
+    font-family: 'Fredoka One',sans-serif;
+   
+}
+
+.dots{
+    display: flex;
+    justify-content: center;
+    margin-right: 150px;
+
+}
+.dot{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    margin: 0 10px;
+    
+}
+.dot.yellow-dot{
+    background-color:rgb(231, 231, 79);
+}
+.dot.tomato-dot{
+    background-color: tomato ;
+}
+.dot.black-dot{
+    background-color: black ;
+}
+
+
+.right-section .action-btn{
+ margin-left:150px;
+ margin-top: 50px;
+}
+
+[alt="headphone"]{
+    height: 400px;
+    margin-right: 170px;
+}
+
+
+
+
+
+
+
