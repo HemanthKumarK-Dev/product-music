@@ -187,10 +187,20 @@ nav img{
 
     [alt="headphone"]{
         width: 80%;
-        height:280px;
+        margin:0 30px;
     }
 
+    .dots{
+        margin-left: 120px;
+    }
 
+    .right-section .action-btn{
+        margin: 24px 140px;
+    }
+    .action-btn{
+        margin-left: 190px ;
+        border: 1px solid blue;
+    }
 
     
 
