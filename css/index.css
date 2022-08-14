@@ -95,17 +95,22 @@ nav img{
  margin-top: 80px;;
 }
 
+
+.right-section{
+ position: relative;
+}
 .headphone-div>img:first-child{
     position:absolute;
-    top:350px;
-    left:700px;
+    top: 210px;
+
     height: 120px;
+    right: 480px;
     
 }
 .discount-content{
-    position: absolute;
-    top:350px;
-    left:700px;
+    position:absolute;
+    top:210px;
+    left:-20px;
     color: #fefefe;
     
 }
@@ -160,6 +165,14 @@ nav img{
     margin-right: 170px;
 }
 
+
+@media only screen and (max-width:640px) {
+
+    .nav-items{
+        display: none;
+    }
+
+}
 
 
 
