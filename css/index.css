@@ -195,8 +195,9 @@ nav img{
         margin-right: 0px;
     }
 
-    .right-section.action-btn{
-    margin: 10px auto;
+    .right-section .action-btn{
+        margin-left: 40%;
+        margin-top: 10px;
     }
 
     .left-section h1{
