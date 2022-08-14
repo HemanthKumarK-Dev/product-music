@@ -217,10 +217,14 @@ nav img{
         margin-top: 18px;
     }
 
+    p .text{
+        margin-right: 0px;
+    }
+
   .action-btns .action-btn{
         margin-top: 0px;
         margin-right: auto;
-        margin-left: auto;
+        margin-left: 40%;
         margin-bottom: 10px;
     }
     
