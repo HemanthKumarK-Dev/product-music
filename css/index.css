@@ -185,6 +185,11 @@ nav img{
         flex-direction: column-reverse;
     }
 
+    [alt="headphone"]{
+        width: 80%;
+        height:280px;
+    }
+
 
 
     
