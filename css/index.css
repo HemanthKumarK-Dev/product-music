@@ -186,8 +186,8 @@ nav img{
     }
 
     [alt="headphone"]{
-        width: 80%;
-        margin-left: 50px;
+        width: 100%;
+        margin-left: 10px;
     }
     .dots{
         margin-left: 10px;
@@ -218,9 +218,8 @@ nav img{
 
   .action-btns .action-btn{
         margin-top: 0px;
-        border: 2px solid blue;
-        margin-right: auto;
-        margin-left: auto;
+        margin-right: 90px;
+        margin-left: 90px;
         margin-bottom: 10px;
     }
     
@@ -229,7 +228,18 @@ nav img{
         flex-direction: column;
     }
 
+   .headphone-div>img:first-child {
+    position: absolute;
+    top: 50%;
+    left: 1%;
+    height: 100px;
 
+}
+
+.discount-content{
+    margin-top: 5%;
+    margin-left: 5%;
+}
 
 
     
