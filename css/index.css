@@ -195,11 +195,8 @@ nav img{
     }
 
     .right-section .action-btn{
-        margin: 24px 140px;
-    }
-    .action-btn{
-        margin-left: 190px ;
-        border: 1px solid blue;
+        margin-top: 24px;
+        margin-left: 130px;
     }
 
     
