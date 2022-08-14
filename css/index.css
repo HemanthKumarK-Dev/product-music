@@ -187,8 +187,50 @@ nav img{
 
     [alt="headphone"]{
         width: 80%;
-        margin:0 30px;
+        margin-left: 50px;
     }
+    .dots{
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+
+    .right-section .action-btn{
+        margin-left: 115px;
+        margin-top: 10px;
+    }
+
+    .left-section h1{
+        font-weight: 100;
+        font-size: 30px;
+    }
+
+    .sub-headline{
+        margin-left: 0px;
+        font-size: 12px;
+    }
+    .text{
+        max-width: 100%;
+        padding: 0;
+        margin-right: 0px;
+        margin-bottom: 30px;
+        margin-top: 18px;
+    }
+
+  .action-btns .action-btn{
+        margin-top: 0px;
+        border: 2px solid blue;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 10px;
+    }
+    
+    .action-btns{
+        display: flex;
+        flex-direction: column;
+    }
+
+
+
 
     
 
